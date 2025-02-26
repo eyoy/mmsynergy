@@ -39,7 +39,7 @@ id_box = [vids_train, vids_valid, vids]
 # model =torch.load('/home/ey/MultiBench2/clean_models/digg/digg_best_seed521_newparam_norm.pt')
 # model = torch.load('/home/ey/MultiBench2/clean_models/digg/temp_cos.pt')
 # model = torch.load("/mnt/g/mmsynergy/model/tune/mult_mtl_contextual/models/mtl_lr0.0005_bs64_alpha0.4.pt")
-model = torch.load("/mnt/g/mmsynergy/model/tune/mult_mtl_contextual_structured/models/mtl_lr0.0005_bs64_alpha0.3_beta0.4.pt")
+model = torch.load("/mnt/g/mmsynergy/model/tune/mult_mtl_contextual_structured/models/mtl_lr0.0005_bs64_alpha0.2_beta0.2.pt")
 total = [zip(vids_train, traindata),zip(vids_valid, validdata),zip(vids, test_robust)] 
 final_data = []
 for i in total:
