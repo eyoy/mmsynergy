@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Although short-form dancing videos are rapidly emerging as a dominant format for both entertainment and marketing on social media platforms, there is a lack of systematic dance video quality measures that can guide influencers in crafting more impactful content and empower brands to predict multifaceted consumer engagement.
 
 ## Experiments
-style>
+<style>
   .video-container {
     display: flex;
     justify-content: center;
