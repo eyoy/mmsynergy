@@ -37,15 +37,15 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
       <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption>Video 1: Description of the first video</figcaption>
+    <figcaption>Video 1: High MM Synergy Condition</figcaption>
   </figure>
 
   <figure>
     <video controls>
-      <source src="assets/H1_Low.mp4" type="video/mp4">
+      <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption>Video 2: Description of the second video</figcaption>
+    <figcaption>Video 2: Low MM Synergy Condition</figcaption>
   </figure>
 </div>
 
