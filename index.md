@@ -27,7 +27,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
     width: 40%; /* Adjust width as needed */
   }
   .video-container video {
-    width: 45%;
+    width: 100%;
   }
 </style>
 
@@ -42,7 +42,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 
   <figure>
     <video controls>
-      <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
+      <source src="assets/H1_Low.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>Video 2: Description of the second video</figcaption>
