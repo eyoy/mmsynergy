@@ -16,6 +16,29 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 
 ## Experiments
 
+<style>
+  .video-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .video-container video {
+    width: 45%; /* Adjust width as needed */
+  }
+</style>
+
+<div class="video-container">
+  <video controls>
+    <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <video controls>
+    <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 <table>
   <tr>
     <td>
