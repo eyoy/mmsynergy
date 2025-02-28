@@ -23,7 +23,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
     flex-wrap: wrap;
   }
   .video-container video {
-    width: 45%; /* Adjust width as needed */
+    width: 35%; /* Adjust width as needed */
   }
 </style>
 
@@ -39,20 +39,6 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
   </video>
 </div>
 
-<table>
-  <tr>
-    <td>
-      <video width="360" height="360" controls>
-        <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <video width="360" height="360" controls>
-        <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
-      </video>
-    </td>
-  </tr>
-</table>
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
