@@ -2,18 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # ABSTRACT
 
 Although short-form dancing videos are rapidly emerging as a dominant format for both entertainment and marketing on social media platforms, there is a lack of systematic dance video quality measures that can guide influencers in crafting more impactful content and empower brands to predict multifaceted consumer engagement.
 
+## Feature Extraction
 ## Experiments
 <style>
   .video-container {
@@ -37,7 +30,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
       <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption>Video 1: High MM Synergy Condition</figcaption>
+    <figcaption>**Video 1: High MM Synergy Condition**</figcaption>
   </figure>
 
   <figure>
@@ -45,7 +38,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
       <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption>Video 2: Low MM Synergy Condition</figcaption>
+    <figcaption>**Video 2: Low MM Synergy Condition**</figcaption>
   </figure>
 </div>
 
@@ -70,6 +63,13 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 #### Header 4
 
