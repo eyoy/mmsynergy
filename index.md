@@ -16,7 +16,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 
 ## Experiments
 
-<video width="640" height="360" controls>
+<video width="360" height="360" controls>
   <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
