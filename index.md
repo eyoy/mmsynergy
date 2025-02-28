@@ -16,11 +16,20 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 
 ## Experiments
 
-<video width="360" height="360" controls>
-  <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<table>
+  <tr>
+    <td>
+      <video width="360" height="360" controls>
+        <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
+      </video>
+    </td>
+    <td>
+      <video width="360" height="360" controls>
+        <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+</table>
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
