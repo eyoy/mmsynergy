@@ -15,29 +15,40 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Although short-form dancing videos are rapidly emerging as a dominant format for both entertainment and marketing on social media platforms, there is a lack of systematic dance video quality measures that can guide influencers in crafting more impactful content and empower brands to predict multifaceted consumer engagement.
 
 ## Experiments
-
-<style>
+style>
   .video-container {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 20px; /* Space between videos */
     flex-wrap: wrap;
   }
+  .video-container figure {
+    text-align: center; /* Centers text below videos */
+    width: 40%; /* Adjust width as needed */
+  }
   .video-container video {
-    width: 35%; /* Adjust width as needed */
+    width: 100%;
   }
 </style>
 
 <div class="video-container">
-  <video controls>
-    <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <figure>
+    <video controls>
+      <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Video 1: Description of the first video</figcaption>
+  </figure>
 
-  <video controls>
-    <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <figure>
+    <video controls>
+      <source src="assets/6843971599771733254_H.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Video 2: Description of the second video</figcaption>
+  </figure>
 </div>
+
 
 > This is a blockquote following a header.
 >
