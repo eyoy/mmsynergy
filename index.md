@@ -27,7 +27,7 @@ style>
     width: 40%; /* Adjust width as needed */
   }
   .video-container video {
-    width: 100%;
+    width: 45%;
   }
 </style>
 
