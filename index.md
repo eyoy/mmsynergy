@@ -11,7 +11,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 ## Model Performance
 
 <div style="text-align: center;">
-  <img src="assets/images/mod_perf_improvement.png" alt="Cute Corgi" width="300">
+  <img src="assets/images/mod_perf_improvement.png" alt="Cute Corgi" width="600">
 </div>
 
 ## Experiments
