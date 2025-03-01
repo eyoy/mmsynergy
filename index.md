@@ -49,6 +49,23 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
   </figure>
 </div>
 
+<div class="video-container">
+  <figure>
+    <video controls>
+      <source src="assets/videos/7063140508113145094_H.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption><strong>Video 2: (High MM Synergy Condition)</strong></figcaption>
+  </figure>
+
+  <figure>
+    <video controls>
+      <source src="assets/H4-manipulated.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption><strong>Video 2: (Low MM Synergy Condition)</strong></figcaption>
+  </figure>
+</div>
 
 > This is a blockquote following a header.
 >
