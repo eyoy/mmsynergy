@@ -8,6 +8,11 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 
 ## Feature Extraction
 ## Model Architecture
+
+<div style="text-align: center;">
+  <img src="assets/images/mod_architecture.png" alt="Model Architecture" width="900">
+</div>
+
 ## Model Performance
 
 <div style="text-align: center;">
