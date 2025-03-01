@@ -14,18 +14,18 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
             <source src="assets/videos/raw_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
-        <p style="text-align: center; font-weight: bold;">Video Caption</p>
+        <p style="text-align: center; font-weight: bold;">Raw Video Example</p>
     </div>
     <div style="margin-right: 20px;">
         <img src="assets/images/feature_extraction.png" alt="Image Description" width="300">
-        <p style="text-align: center; font-weight: bold;">Image Caption</p>
+        <p style="text-align: center; font-weight: bold;">Feature Extraction Flow</p>
     </div>
     <div>
         <video width="300" controls>
             <source src="assets/videos/AlphaPose_7086817970176986369.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
-        <p style="text-align: center; font-weight: bold;">Video Caption</p>
+        <p style="text-align: center; font-weight: bold;">Body and Face Landmarks Visualization</p>
     </div>
 </div>
 
