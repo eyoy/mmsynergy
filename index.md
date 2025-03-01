@@ -9,6 +9,13 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 ## Feature Extraction
 
 <div style="display: flex; align-items: center; justify-content: center;">
+     <div>
+        <video width="300" controls>
+            <source src="assets/videos/raw_video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <p style="text-align: center; font-weight: bold;">Video Caption</p>
+    </div>
     <div style="margin-right: 20px;">
         <img src="assets/images/feature_extraction.png" alt="Image Description" width="300">
         <p style="text-align: center; font-weight: bold;">Image Caption</p>
@@ -80,7 +87,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 
   <figure>
     <video controls>
-      <source src="assets/H4-manipulated.mp4" type="video/mp4">
+      <source src="assets/videos/H4-manipulated.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption><strong>Video 2: (Low MM Synergy Condition)</strong></figcaption>
@@ -98,7 +105,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 
   <figure>
     <video controls>
-      <source src="assets/H3_manipulated.mp4" type="video/mp4">
+      <source src="assets/videos/H3_manipulated.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption><strong>Video 3: (Low MM Synergy Condition)</strong></figcaption>
@@ -116,7 +123,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 
   <figure>
     <video controls>
-      <source src="assets/H5_manipulated.mp4" type="video/mp4">
+      <source src="assets/videos/H5_manipulated.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption><strong>Video 4: (Low MM Synergy Condition)</strong></figcaption>
@@ -126,7 +133,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 <div class="video-container">
   <figure>
     <video controls>
-      <source src="https://github.com/eyoy/mmsynergy/blob/main/assets/videos/6943205179202211074_H.mp4" type="video/mp4">
+      <source src="assets/videos/6943205179202211074_H.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption><strong>Video 5: (High MM Synergy Condition)</strong></figcaption>
@@ -134,7 +141,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
 
   <figure>
     <video controls>
-      <source src="assets/H2_manipulated.mp4" type="video/mp4">
+      <source src="assets/videos/H2_manipulated.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption><strong>Video 5: (Low MM Synergy Condition)</strong></figcaption>
