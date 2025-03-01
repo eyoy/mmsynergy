@@ -54,7 +54,7 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
     width: 40%; /* Adjust width as needed */
   }
   .video-container video {
-    width: 100%;
+    width: 80%;
   }
 </style>
 
