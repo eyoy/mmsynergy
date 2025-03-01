@@ -85,6 +85,42 @@ Although short-form dancing videos are rapidly emerging as a dominant format for
   </figure>
 </div>
 
+<div class="video-container">
+  <figure>
+    <video controls>
+      <source src="assets/videos/6826850615004515590_H.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption><strong>Video 4: (High MM Synergy Condition)</strong></figcaption>
+  </figure>
+
+  <figure>
+    <video controls>
+      <source src="assets/H5_manipulated.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption><strong>Video 4: (Low MM Synergy Condition)</strong></figcaption>
+  </figure>
+</div>
+
+<div class="video-container">
+  <figure>
+    <video controls>
+      <source src="https://github.com/eyoy/mmsynergy/blob/main/assets/videos/6943205179202211074_H.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption><strong>Video 5: (High MM Synergy Condition)</strong></figcaption>
+  </figure>
+
+  <figure>
+    <video controls>
+      <source src="assets/H2_manipulated.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption><strong>Video 5: (Low MM Synergy Condition)</strong></figcaption>
+  </figure>
+</div>
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
